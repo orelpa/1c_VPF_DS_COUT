@@ -40,6 +40,7 @@
 			<Template>ПФ_MXL_ДополнительноеСоглашениеКТрудовомуДоговоруСуммаДолжность</Template>
 			<Template>ПФ_MXL_ТрудовойДоговор_ОбщийАУП</Template>
 			<Template>ПФ_MXL_ДополнительноеСоглашениеКТрудовомуДоговоруИндексация</Template>
+			<Template>ПФ_MXL_ДополнительноеСоглашениеКТрудовомуДоговоруCОУТ</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
