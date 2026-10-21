@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<ExternalDataProcessor uuid="4303e297-d252-46ea-9e1a-841244f565b5">
+		<InternalInfo>
+			<xr:ContainedObject>
+				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
+				<xr:ObjectId>f242aeec-d54d-4bee-8e20-e76bae75d74c</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:GeneratedType name="ExternalDataProcessorObject.АМТрудовойДоговор" category="Object">
+				<xr:TypeId>3c540629-0b2e-4d70-9d44-bcf411ef66b0</xr:TypeId>
+				<xr:ValueId>c62f39eb-d3f0-41eb-9e59-eac0f8becb3e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>АМТрудовойДоговор</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>АМ Трудовой договор</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<DefaultForm>ExternalDataProcessor.АМТрудовойДоговор.Form.Форма</DefaultForm>
+			<AuxiliaryForm/>
+		</Properties>
+		<ChildObjects>
+			<Form>Форма</Form>
+			<Template>ПФ_MXL_ТрудовойДоговор</Template>
+			<Template>ПФ_MXL_ТрудовойДоговор_Общий</Template>
+			<Template>_удПФ_MXL_ДополнительноеСоглашениеКТрудовомуДоговоруСрокиВыплаты</Template>
+			<Template>ПФ_MXL_ДополнительноеСоглашениеКТрудовомуДоговоруИзмАдреса</Template>
+			<Template>ПФ_MXL_ДополнительноеСоглашениеКТрудовомуДоговоруУточненияУсловийТруда</Template>
+			<Template>ПФ_MXL_ДополнительноеСоглашениеКТрудовомуДоговоруСрокиВыплаты</Template>
+			<Template>ПФ_MXL_ТрудовойДоговор_ТКП</Template>
+			<Template>ПФ_MXL_Приложение2КТрудовомуДоговоруОНеразглашенииИнформации_ТКП</Template>
+			<Template>ПФ_MXL_Приложение3КТрудовомуДоговоруОНеразглашенииПерсональныхДанных_ТКП</Template>
+			<Template>ПФ_MXL_СогласиеНаОбработкуПерсональныхДанных_ТКП</Template>
+			<Template>ПФ_MXL_ТрудовойДоговорСрочныйУпаковщик</Template>
+			<Template>ПФ_MXL_ТрудовойДоговор_Общий_ТКП</Template>
+			<Template>ПФ_MXL_ДополнительноеСоглашениеКТрудовомуДоговоруСуммаДолжность</Template>
+			<Template>ПФ_MXL_ТрудовойДоговор_ОбщийАУП</Template>
+			<Template>ПФ_MXL_ДополнительноеСоглашениеКТрудовомуДоговоруИндексация</Template>
+		</ChildObjects>
+	</ExternalDataProcessor>
+</MetaDataObject>
